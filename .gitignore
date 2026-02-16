@@ -1,0 +1,30 @@
+# .gitignore for QuanLyDoanKham (Fullstack)
+
+# .NET (Backend)
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Node.js (Frontend)
+node_modules/
+dist/
+dist-ssr/
+*.local
+.parcel-cache/
+.eslintcache
+.stylelintcache
+node_modules.zip
+
+# System / OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+.agent/
+.gemini/
+*.log
