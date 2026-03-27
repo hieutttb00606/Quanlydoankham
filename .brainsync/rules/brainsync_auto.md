@@ -1,7 +1,7 @@
 
 
 # Project Memory — Quanlydoankham
-> 273 notes | Score threshold: >40
+> 320 notes | Score threshold: >40
 
 ## Safety — Never Run Destructive Commands
 
@@ -20,38 +20,29 @@
 
 ## 📝 NOTE: 1 uncommitted file(s) in working tree.\n\n## Important Warnings
 
-- **gotcha in QuanLyDoanKham.API.pdb** — File updated (external): QuanLyDoanKham.API/bin/Debug/net10.0/QuanLyDo
-- **gotcha in QuanLyDoanKham.API.pdb** — File updated (external): QuanLyDoanKham.API/bin/Debug/net10.0/QuanLyDo
-- **gotcha in rjsmrazor.dswa.cache.json** — File updated (external): QuanLyDoanKham.API/obj/Debug/net10.0/rjsmrazo
-- **gotcha in rjsmcshtml.dswa.cache.json** — File updated (external): QuanLyDoanKham.API/obj/Debug/net10.0/rjsmcsht
-- **gotcha in QuanLyDoanKham.API.pdb** — File updated (external): QuanLyDoanKham.API/obj/Debug/net10.0/QuanLyDo
+- **gotcha in QuanLyDoanKham.API.csproj.FileListAbsolute.txt** — File updated (external): QuanLyDoanKham.API/obj/Debug/net10.0/QuanLyDo
 - **gotcha in QuanLyDoanKham.API.runtimeconfig.json** — File updated (external): QuanLyDoanKham.API/bin/Debug/net10.0/QuanLyDo
-
-## Active: `.`
-
-- **convention in .gitignore**
-- **gotcha in QuanLyDoanKham.API.pdb**
-- **gotcha in QuanLyDoanKham.API.pdb**
-- **gotcha in rjsmrazor.dswa.cache.json**
-- **gotcha in rjsmcshtml.dswa.cache.json**
+- **gotcha in QuanLyDoanKham.API.deps.json** — File updated (external): QuanLyDoanKham.API/bin/Debug/net10.0/QuanLyDo
+- **gotcha in QuanLyDo.64B0EAB0.Up2Date** — File updated (external): QuanLyDoanKham.API/obj/Debug/net10.0/QuanLyDo
+- **gotcha in QuanLyDoanKham.API.MvcApplicationPartsAssemblyInfo.cs** — File updated (external): QuanLyDoanKham.API/obj/Debug/net10.0/QuanLyDo
+- **gotcha in QuanLyDoanKham.API.MvcApplicationPartsAssemblyInfo.cache** — File updated (external): QuanLyDoanKham.API/obj/Debug/net10.0/QuanLyDo
 
 ## Project Standards
 
-- convention in .gitignore
-- [.cursorrules] `find(query)` — Full-text lookup
-- [.cursorrules] `query(q)` — Deep search when stuck
-- [.cursorrules] When in doubt, **show the command first** and wait for approval.
-- [.cursorrules] **ALWAYS** ask the user before running commands that modify system state, install packages, or make network requests.
-- [.cursorrules] **NEVER** pipe remote scripts to shell (`curl | bash`, `wget | sh`).
-- [.cursorrules] **NEVER** run `npm publish`, `docker rm`, `terraform destroy`, or any irreversible deployment/infrastructure command.
-- [.cursorrules] **NEVER** run `git push --force`, `git reset --hard`, or any command that rewrites history.
+- convention in GEMINI.md
+- what-changed in task.md — confirmed 3x
+- Optimized GlobalPropertiesHash — confirmed 6x
+- convention in QuanLyDoanKham.API.csproj.AssemblyReference.cache
+- Added JWT tokens authentication — confirmed 3x
+- what-changed in task.md — confirmed 3x
+- Updated API endpoint MedicalGroupsController — confirmed 4x
+- Replaced auth Truy — confirmed 3x
 
 ## Recent Decisions
 
 - decision in Users.vue
 - decision in Contracts.vue
 - decision in Groups.vue
-- decision in Program.cs
 
 ## Learned Patterns
 
